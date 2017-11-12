@@ -1,0 +1,9 @@
+SPRITE simon_off_spr "gfx/simon_off.png" 24 24 FAST 5
+SPRITE blue_on_spr "gfx/blue_on_spr.png" 24 24 FAST 5
+SPRITE green_on_spr "gfx/green_on_spr.png" 24 24 FAST 5
+SPRITE red_on_spr "gfx/red_on_spr.png" 24 24 FAST 5
+SPRITE yellow_on_spr "gfx/yellow_on_spr.png" 24 24 FAST 5
+SPRITE bad_spr "gfx/bad_spr.png" 24 24 FAST 5
+SPRITE good_spr "gfx/good_spr.png" 24 24 FAST 5
+SPRITE play_spr "gfx/play_spr.png" 24 24 FAST 5
+SPRITE title_spr "gfx/title.png" 24 6 FAST 5
