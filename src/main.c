@@ -7,10 +7,10 @@
 
 
 /* ===================================================================== 
- * The Highway 
+ * Drk Simon 
  * =====================================================================
- * A Simple Car Race Game
- * December 2016
+ * The simon says game for genesis
+ * November 2017
  * By Philippe Bousquet <darken33@free.fr>
  * This software is under Gnu General Public License v3
  */

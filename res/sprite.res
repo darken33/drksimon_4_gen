@@ -6,4 +6,6 @@ SPRITE yellow_on_spr "gfx/yellow_on_spr.png" 24 24 FAST 5
 SPRITE bad_spr "gfx/bad_spr.png" 24 24 FAST 5
 SPRITE good_spr "gfx/good_spr.png" 24 24 FAST 5
 SPRITE play_spr "gfx/play_spr.png" 24 24 FAST 5
-SPRITE title_spr "gfx/title.png" 24 6 FAST 5
+SPRITE title_txt "gfx/text_title.png" 24 6 FAST 5
+SPRITE start_txt "gfx/text_start.png" 18 4 FAST 5
+SPRITE difficulty_txt "gfx/text_difficulty.png" 9 3 FAST 5
